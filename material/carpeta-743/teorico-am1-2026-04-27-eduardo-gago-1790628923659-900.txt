@@ -1,0 +1,6 @@
+1. Desarrollar teorema fundamental del calculo.
+2. Definir antiderivada.
+3. Definir serie. Cuando una serie geométrica converge. Dar criterio de la divergencia.
+4. Definir derivada definida e indefinida y sus diferencias.
+5. Definir punto de inflexión, toda función donde cambia la concavidad tiene punto de inflexión explica.
+6. Desarrollar el teorema del valor medio.
