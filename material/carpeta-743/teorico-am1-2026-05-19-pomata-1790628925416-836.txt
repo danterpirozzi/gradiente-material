@@ -1,0 +1,7 @@
+1) definición de función impar
+2) teorema de Rolle y aplicación geometría 
+3) teorema del valor medio
+4) dar 5 propiedades límite
+5) definir función definida y 2 propiedades 
+6) demostración de la derivada del cos x
+7) cual es la inversa de arcsen x y cual es el dom de Arcsen x? También: que tiene que pasar para que y=b sea asíntota horizontal
