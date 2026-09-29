@@ -1,0 +1,23 @@
+1. Dada la recta y=2x, z=1 y el plano \alpha: x+y+z=9,
+a) Determine la ecuación del plano \beta, que contiene a la recta L y es perpendicular al plano \alpha.
+b) Halle la proyección de la recta L sobre el plano \alpha.
+
+2. Considere el sistema de ecuaciones lineales
+S: 
+x + y - z = -2
+-x + 2y - 2z = 1
+x - y + az = b
+
+Indique los valores de a y b para los cuales el sistema S:
+a) No admite solución.
+b) Admite una indeterminada cantidad de soluciones.
+c) Admite solución única.
+
+3. Dada la matriz A=(a_ij) de nxn tal que a_ij = x^i para j=1, y a_ij = j^i para j \neq 1.
+Determine todos los valores de x para los cuales la matriz A de tamaño 3x3 es no invertible.
+
+4. Sea la superficie \sigma: A(x-1)^2 + By^2 + Cz^2 = 1. Indique y grafique la superficie sabiendo que se cumplen simultáneamente:
+- La intersección de \sigma con el plano de ecuación y=0 es una circunferencia de radio 2.
+- La intersección de \sigma con el plano de ecuación z=0 es una hipérbola de semiejes 2 y 3.
+
+5. Sea T: R^3 \to R^2 tal que T(x;y;z) = (x-z, 3y). Halle el núcleo y la imagen, y una base para cada uno. Verifique el teorema de las dimensiones.
