@@ -1,0 +1,28 @@
+AyGA_Final_20251202
+
+1) dada la transformación lineal T aplicada a A*x^2+Bx+C me da una matriz cuadrada que es a_11=A, a_12=B+A, a_21=C, a_22=C.
+
+a) encuentre el núcleo y una base para el núcleo.
+
+b) describe un conjunto que esté formado por todos los polinomios cuyas imágenes corresponden a matrices inversibles. ese subconjunto es un subespacio vectorial de p2? justifique la respuesta
+
+2) nos da una superficie en función de dos parámetros a y b que son constantes reales. encuentra esas constantes según las condiciones dadas
+
+superficie: A*(x-1)^2 + B*y^2 + Z^2 = 1
+
+a) halle todos los valores de A y B tales que en el primer caso que la interseccion de la superficie con el plano de ecuación x=1 corresponde a una elipse de eje focal paralelo al eje y con semiejes de longitudes 2 y 1.
+
+b) intersecte la superficie con el plano de ecuación z=0 y me pide que corresponda a una hipérbola en la que una de sus asíntotas tiene pendiente raíz de 2.
+
+c) grafique e identifique qué superficie representa cuando A=1 y B=0
+
+3) nos da una recta de la forma x=2y=z-1 y un punto P(1,2,3). 
+
+a) calcula el punto que está mas cerca de la recta respecto de este punto. observación: no es la distancia, sino las coordenadas del punto Q que pertenece a la recta.
+
+b) encuentre el área del triángulo formada por el punto P, el punto R de coordenadas (1,0,1) y el punto encontrado en el apartado anterior 
+
+4) dada una ecuación matricial (X^T*B)^T=3*(A-X)+C despejar la X y dada las matrices A, B y C encontrar el valor de la incógnita.
+
+B = (b_11=2 b_12=-1 b_13=0 b_21=-1 b_22=1 b_23=2 b_31=1 b_32=1 b_33=-2)
+
